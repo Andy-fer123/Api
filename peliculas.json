@@ -1,0 +1,49 @@
+{
+    "peliculas": [
+    {
+        "titulo": "El Padrino",
+        "anio_lanzamiento": 1972,
+        "genero": "Drama, Crimen"
+    },
+    {
+        "titulo": "Interestelar",
+        "anio_lanzamiento": 2014,
+        "genero": "Ciencia ficción, Aventura"
+    },
+    {
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "anio_lanzamiento": 2001,
+        "genero": "Fantasía, Aventura"
+    },
+    {
+        "titulo": "Qué esperar cuando estás esperando",
+        "anio_lanzamiento": 2012,
+        "genero": "comedia"
+    },
+    {
+        "titulo": "El caballero oscuro: La leyenda renace",
+        "anio_lanzamiento": 2012,
+        "genero": "Ciencia ficción, Aventura"
+    },
+    {
+        "titulo": "Alicia en el País de las Maravillas",
+        "anio_lanzamiento": 2010,
+        "genero": "Fantasía, Aventura"
+    },
+    {
+            "titulo": "Thor: El mundo oscuro",
+        "anio_lanzamiento": 2014,
+        "genero": "Acción"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "anio_lanzamiento": 2001,
+        "genero": "Ciencia ficción, Aventura"
+    },
+    {
+        "titulo": "Capitán América: El primer vengador",
+        "anio_lanzamiento": 2011,
+        "genero": "Aventura, Ciencia ficción"
+    }
+    ]
+}
